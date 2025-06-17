@@ -1,0 +1,11 @@
+O curso e patrocinado pelo Google.
+
+O JavaScript surgiu para "clientes" mas funciona hoje ate para servidores.
+
+JavaScript e uma tecnologia client-side.
+
+HTML trata do conteudo em HTML conseguimos organizar textos etc...
+CSS trata do estilo em CSS comsegue colorir um quadro por exemplo 
+JS trata da interação JS se trata de uma linguagem de progamação
+
+Quem usa JS: Google, YOutube, Linkedin, NETFLIX e facebook etc..
