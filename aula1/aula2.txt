@@ -1,0 +1,26 @@
+evolução do js
+
+1970: Surgiu a internet, a guerra fria, foi uma guerra tecnologica e psicologica
+o presidente da epoca criou a DARPA que era para segurança do sentro militar caso o sentro fosse bonbardeado
+não daria para passar mas com a Darpa os danos seriam fisicos não aos dados e essa rede foi chamada de Arpanet
+era uma rede gerenciada pelo governo e pelos militares mas tinha muita universidade dentro a universidade da california e outra que esqueci
+a Arpanet mudou de nome muitas vezes porque muitas redes se juntavam assim ficou a internet
+
+1993: em janeiro (eu acho) um ingles Timothy Berners-Lee ou Tim Berner-Lee ou tbl foi responsavel pela linguagem HTML, o protocolo HTTP, que se juntou ao conjunto de protocolos TCP/IP que fazem parte da internet
+e tamvem fundou a World Wide Web, o WWW e para todas as coisas funcionarem presisava de um navegador surgiu no USA o Mosaic era uma criação de outro pesquisador e o pesquisador se chamava Marc Andreessen o Mosaic foi muito inportante para a tecnologia
+
+1994: Marc Andreessen fpo muito inportante quando saiu da NCSA e se juntou com um cara bilionario o fundador da Siilicon Graphics chamado Jim Clark
+e fundaram os dois juntos uma empresa chamada Netscape
+
+1995: (não intendi muito)
+
+1996: a Netscape procurou uma enpresa uma empresa de padronização a ECMA foi ai que surgiu a ECMAScript
+
+2002: rolou o encerramento da treta entre a Netscape e a Microsoft, a Netscape acabou falindo mas alguem fez uma Fundação a Fundação Mozila, que passou a ser o Firefox
+
+2008:Surgiu então o Google Chrome. e o Google cresceu d+ nos primeiro anos de vida ja foi o 3 navegador mais usado do mundo
+
+2009: a V8 e o motor em baixo od Google. o Firefox tem o SpiderMonkey, no Safari ele se chama Nitro, no Opera e o Karakan
+na Microsoft e o Chakra
+
+2010: Node que foi o V8 fora do Google, foi uma das grandes iniciativas, foi a que popularizou a saida do JavaScript dos navegadores
