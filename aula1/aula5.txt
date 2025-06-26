@@ -1,0 +1,62 @@
+Anteriormente:
+
+    Window.alert()
+
+    Window.confirm()
+
+    Window.prompt()
+
+Comentarios:
+
+    // colocar um comentario em uma linha
+
+    /*
+    em varias
+    linhas
+    /*
+
+Identificadores:
+
+  *  Podem começar com 
+     letras, R sifrão ou _
+
+  *  Não podem começar com numeros
+
+  *  Não possivel usar
+     acentos ou numeros
+
+  *  Não podem comtem espasços
+     
+  *  Não comtem palavras reservadas
+
+Dicas:
+
+  *  Maiusculas e minusculas
+     fazem diferensa
+
+  *  Tente escolher nomes
+     coerentes para as
+     variaveis
+
+  *  Evite se tornar um
+     'Programador alfabeto'
+     ou 'Programador contador'
+
+Data Tipes:
+
+    number
+        Infinity
+        NaN
+    
+    string
+
+    boolean
+
+    null
+
+    undefined
+
+    object
+        Array
+
+    function
