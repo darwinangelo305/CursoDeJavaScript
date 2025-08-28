@@ -1,0 +1,229 @@
+Eventos DOM:
+
+    Oque e?:
+
+        Document
+        Object
+        Model
+
+    Tecnicas:
+
+        TagName
+        ID
+        Name
+        ClassName
+
+        querySelector
+
+    Eventos DOM:
+
+        <DIV>
+
+
+
+
+        (qualquer coisa que interaja com a div como eventos de mouse)
+
+    eventos:
+
+    Tipo de evento	Descrição	Documentação
+Animação	
+Eventos relacionados à API de animação da Web .
+
+Usado para responder a mudanças no status da animação (por exemplo, quando uma animação começa ou termina).
+
+Eventos de animação disparados em Document, Window, HTMLElement.
+Busca de dados assíncronos	
+Eventos relacionados à busca de dados.
+
+Eventos disparados em AbortSignal, XMLHttpRequest, FileReader.
+Área de transferência	
+Eventos relacionados à API da área de transferência .
+
+Usado para notificar quando o conteúdo é cortado, copiado ou colado.
+
+Eventos disparados em Document, Element, Window.
+Composição	
+Eventos relacionados à composição; inserir texto "indiretamente" (em vez de usar pressionamentos normais do teclado).
+
+Por exemplo, texto inserido por meio de um mecanismo de conversão de fala em texto ou usando combinações de teclas especiais que modificam os pressionamentos do teclado para representar novos caracteres em outro idioma.
+
+Eventos disparados em Element.
+Transição CSS	
+Eventos relacionados a Transições CSS .
+
+Fornece eventos de notificação quando as transições CSS começam, param, são canceladas, etc.
+
+Eventos disparados em Document, HTMLElement, Window.
+Banco de dados	
+Eventos relacionados às operações do banco de dados: abertura, fechamento, transações, erros, etc.
+
+Eventos disparados em IDBDatabase, IDBOpenDBRequest, IDBRequest, IDBTransaction.
+Mutação DOM	
+Eventos relacionados a modificações na hierarquia e nos nós do Document Object Model (DOM).
+
+Aviso: Eventos de Mutação estão obsoletos. Observadores de Mutação devem ser usados ​​em seu lugar.
+
+Arraste e solte, Roda	
+Eventos relacionados ao uso da API de arrastar e soltar HTML e eventos de roda .
+
+Eventos de arrastar e rodar são derivados de eventos de mouse. Embora sejam acionados ao usar a roda do mouse ou arrastar e soltar, também podem ser usados ​​com outro hardware apropriado.
+
+Eventos de arrasto disparados em Document
+
+Eventos de roda disparados em Element
+
+Foco	
+Eventos relacionados a elementos ganhando e perdendo foco.
+
+Eventos disparados em Element, Window.
+Forma	
+Eventos relacionados a formulários sendo construídos, redefinidos e enviados.
+
+Eventos disparados em HTMLFormElement.
+Tela cheia	
+Eventos relacionados à API de tela cheia .
+
+Usado para notificar quando ocorre a transição entre os modos de tela cheia e janela, e também sobre erros que ocorrem durante essa transição.
+
+Eventos disparados em Document, Element.
+Controle de jogo	
+Eventos relacionados à API do Gamepad .
+
+Eventos disparados em Window.
+Gestos	
+Eventos de toque são recomendados para implementar gestos.
+
+Eventos disparados em Document, Element.
+
+Além disso, há uma série de eventos de gestos não padronizados:
+
+Eventos específicos do WebKit não padrão em Element: gesturestartevent , gesturechangeevent , gestureendevent .
+História	
+Eventos relacionados à API do Histórico .
+
+Eventos disparados em Window.
+Gerenciamento de exibição de conteúdo de elementos HTML	
+Eventos relacionados à alteração do estado de uma exibição ou elemento textual.
+
+Eventos disparados em HTMLDetailsElement, HTMLDialogElement, HTMLSlotElement.
+Entradas	
+Eventos relacionados a elementos de entrada HTML, por exemplo <input>, <select>, ou <textarea>.
+
+Eventos disparados em HTMLElement, HTMLInputElement.
+Teclado	
+Eventos relacionados ao uso do teclado .
+
+Usado para notificar quando as teclas são movidas para cima, para baixo ou apenas pressionadas.
+
+Eventos disparados em Document, Element.
+Carregamento/descarregamento de documentos	
+Eventos relacionados ao carregamento e descarregamento de documentos.
+
+Eventos disparados em Document e Window.
+
+Manifestos	
+Eventos relacionados à instalação de manifestos de aplicativos da web progressivos .
+
+Eventos disparados em Window.
+Mídia	
+Eventos relacionados ao uso de mídia (incluindo Media Capture and Streams API , Web Audio API , Picture-in-Picture API , etc.).
+
+Eventos disparados em ScriptProcessorNode, HTMLMediaElement, AudioTrackList, AudioScheduledSourceNode, MediaRecorder, MediaStream, MediaStreamTrack, VideoTrackList, HTMLTrackElement, OfflineAudioContext, TextTrack, TextTrackList, Elemento/áudio , Elemento/vídeo .
+Mensagens	
+Eventos relacionados a uma janela que recebe uma mensagem de outro contexto de navegação.
+
+Eventos disparados em Window.
+Rato	
+Eventos relacionados ao uso do mouse do computador .
+
+Usado para notificar quando o mouse é clicado, clicado duas vezes, eventos para cima e para baixo, clique com o botão direito, movimento para dentro e para fora de um elemento, seleção de texto, etc.
+
+Eventos de ponteiro oferecem uma alternativa independente de hardware aos eventos de mouse. Eventos de arrastar e rodar são derivados de eventos de mouse.
+
+Eventos de mouse disparados em Element
+Rede/Conexão	
+Eventos relacionados à obtenção e perda de conexão de rede.
+
+Eventos disparados em Window.
+
+Eventos disparados em NetworkInformation ( API de informações de rede ).
+
+Pagamentos	
+Eventos relacionados à API de solicitação de pagamento .
+
+Eventos disparados em PaymentRequest, PaymentResponse.
+
+Desempenho	
+Eventos relacionados a qualquer especificação relacionada ao desempenho agrupados em APIs de desempenho .
+
+Eventos disparados em Performance.
+
+Ponteiro	
+Eventos relacionados à API Pointer Events .
+
+Fornece notificações independentes de hardware de dispositivos apontadores, incluindo mouse, toque, caneta/stylus.
+
+Eventos disparados em Document, HTMLElement.
+Imprimir	
+Eventos relacionados à impressão.
+
+Eventos disparados em Window.
+Rejeição de promessa	
+Eventos enviados para o contexto de script global quando qualquer promessa JavaScript é rejeitada.
+
+Eventos disparados em Window.
+Soquetes	
+Eventos relacionados à API WebSockets .
+
+Eventos disparados em WebSocket.
+SVG	
+Eventos relacionados a imagens SVG.
+
+Eventos disparados em SVGElement, SVGAnimationElement, SVGGraphicsElement.
+
+Seleção de texto	
+Eventos da API de seleção relacionados à seleção de texto.
+
+Evento ( selectionchange) disparado em HTMLTextAreaElement, HTMLInputElement.
+
+Tocar	
+Eventos relacionados à API Touch Events .
+
+Fornece eventos de notificação ao interagir com uma tela sensível ao toque (por exemplo, usando um dedo ou uma caneta). Não relacionado à API Force Touch .
+
+Eventos disparados em Document, Element.
+Realidade virtual	
+Eventos relacionados à API do dispositivo WebXR .
+
+Aviso: A API WebVR (e Windoweventos associados ) estão obsoletos.
+
+Eventos disparados em XRSystem, XRSession, XRReferenceSpace.
+RTC (comunicação em tempo real)	
+Eventos relacionados à API WebRTC .
+
+Eventos disparados em RTCDataChannel, RTCDTMFSender, RTCIceTransport, RTCPeerConnection.
+Eventos enviados pelo servidor	
+Eventos relacionados à API de eventos enviados pelo servidor .
+
+Eventos disparados em EventSource.
+Discurso	
+Eventos relacionados à Web Speech API .
+
+Eventos disparados em SpeechSynthesisUtterance.
+Trabalhadores	
+Eventos relacionados à API Web Workers , API Service Worker , API Broadcast Channel e API Channel Messaging .
+
+Usado para responder a novas mensagens e erros de envio de mensagens. Os service workers também podem ser notificados sobre outros eventos, incluindo notificações push, usuários clicando em notificações exibidas, assinatura push invalidada, exclusão de itens do índice de conteúdo, etc.
+
+Eventos disparados em ServiceWorkerGlobalScope, DedicatedWorkerGlobalScope, SharedWorkerGlobalScope, WorkerGlobalScope, Worker, BroadcastChannel, MessagePort.
+
+
+    Funções:
+
+    programar 10 linhas chamam de Bloco
+
+    esse bloco precisa ser nomeado de function para funcionar com o nome da
+    acão com (param)
+
+    (maioria da aula e explicação so um pouco e html a parte html so vou fasser quando muita parte da aula for html)
