@@ -1,0 +1,24 @@
+MODULO D:
+
+    Trabalhando Condições em JS
+
+    Condições Simples
+
+    Condições Compostas
+
+    Condições Anilhadas
+
+    Condições Multiplas
+
+    Exercicios Proposto <- MUITO IMPORTANTE ASSISTA TUDO
+
+
+    NÂO PULE
+
+    ANOTE TUDO
+
+    DUAS TELAS
+
+    PRATIQUE
+
+    COMPARTILHE
