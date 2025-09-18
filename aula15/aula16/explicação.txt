@@ -1,0 +1,10 @@
+Funções eu JS:
+
+    são acçoes executadas
+    assim que são chamadas
+    ou e, decorrencia dealgun evento
+
+    Uma função pode
+    receber parametros e
+    retornar um resultado
+    
