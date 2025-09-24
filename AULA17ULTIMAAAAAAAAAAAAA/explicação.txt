@@ -1,0 +1,41 @@
+ULTIMA:
+
+    Nossa rota ate aqui...:
+
+        A fundamentos
+
+        B variaveis e dados
+
+        C operadores
+
+        D condições
+
+        E repetições
+
+        F arrays
+
+        functions
+
+        DOM
+
+    Quais são os proximos passos?:
+
+        daqui pra frente:
+
+            fazer o curso de HTML5 e CSS
+
+            mais truanquilo que js
+
+            Estude MUITO sobre funções
+
+            Estude objetos
+
+            Estude modularização
+
+            Estude RegEx
+
+            Estude JSOM (escutei Jason kkkkkkkkkk)
+
+            Estude AJAX
+
+            Estude NodeJS
